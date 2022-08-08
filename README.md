@@ -11,7 +11,7 @@ We are allow to:
 - Delte product from the list
 - Navigate througth the different pages of the list, by accesing the numeric index or prev and next button
 
-![Preview](./img/preview.png)
+![Preview](./img/preview.PNG)
 
 
 Created by Sergio Paniagua López
