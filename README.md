@@ -13,5 +13,8 @@ We are allow to:
 
 ![Preview](./img/preview.PNG)
 
+# Run the project
+This is a simple application, so you have to only open the index.html
+
 
 Created by Sergio Paniagua López
